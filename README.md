@@ -16,6 +16,6 @@ Tecnologias utilizadas:
 
 ### PASSO A PASSO PARA RODAR O APLICATIVO NA SUA MÁQUINA
 
- - 1 - Faça o `git clone` do repositório, usando `git@github.com:victorfariass/frontend-online-store.git`;
+ - 1 - Faça o `git clone` do repositório, usando `git@github.com:victorfariass/project-frontend-online-store.git`;
  - 2 - Na raiz do projeto execute `npm install`;
  - 7 - Na raiz do projeto execute `npm start`.
